@@ -1,11 +1,10 @@
 {
   "name": "press.osweekends.com",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Vuepress based Blog for OSWeekends communications",
   "scripts": {
-    "serve": "cd src && vuepress dev",
-    "build": "cd src && vuepress build",
+    "serve": "vuepress dev src",
+    "build": "vuepress build src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OSWeekends/press.osweekends.com/issues"
   },
-  "homepage": "https://github.com/OSWeekends/press.osweekends.com#readme"
+  "homepage": "https://github.com/OSWeekends/press.osweekends.com#readme",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
 }
