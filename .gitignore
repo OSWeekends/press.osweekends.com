@@ -1,3 +1,6 @@
-.idea
-src/.vuepress/dist
 node_modules
+src/.vuepress/dist
+
+# Editors
+.idea
+.vscode
