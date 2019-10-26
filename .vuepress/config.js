@@ -19,10 +19,10 @@ module.exports = {
     smoothScroll: true,
     searchPlaceholder: 'Buscar...',
     // TODO
-    // algolia: {
-    //   apiKey: '<API_KEY>',
-    //   indexName: '<INDEX_NAME>'
-    // }
+    algolia: {
+      apiKey: '<API_KEY>',
+      indexName: '<INDEX_NAME>'
+    }
   }
 
 }
