@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/OSWeekends/press.osweekends.com#readme",
   "dependencies": {
+    "moment": "^2.24.0",
     "vuepress": "^1.2.0"
   }
 }

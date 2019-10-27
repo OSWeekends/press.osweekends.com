@@ -1,3 +1,3 @@
 # Hello VuePress
 
-<Posts page="blog" />
+<Posts />

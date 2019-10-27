@@ -5,19 +5,20 @@
 </template>
 
 <script>
+  import moment from 'moment'
 
-  const typeBlog = 'blog'
+  const TYPE_BLOG = 'blog'
+  // Info: https://momentjs.com/docs/#/displaying/format/
+  const FORMAT = 'DD-MM-YY'
 
   export default {
-    props: [ 'page' ],
     computed: {
       posts() {
-        const currentPage = this.page ? this.page : this.$page.path
-        console.log( 'this.$site.pages' )
-        console.log( this.$site.pages )
         return this.$site.pages
-          .filter( i => i.frontmatter.type === typeBlog )
-          .sort( ( a, b ) => new Date( b.frontmatter.date ) - new Date( a.frontmatter.date ) )
+          .filter( i => i.frontmatter.type === TYPE_BLOG )
+          .sort( ( a, b ) => {
+            return moment( a.frontmatter.date, FORMAT ).valueOf() - moment( b.frontmatter.date, FORMAT ).valueOf()
+          } )
       }
     }
   }

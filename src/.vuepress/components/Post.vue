@@ -1,10 +1,11 @@
 <template>
   <div class="post">
-    <pre>{{ $site }}</pre>
     <router-link :to="post.path">
       <img v-if="hasImage" :src="mainImgPath" :alt="altImage">
+      <img v-else :src="defaultImgPath" alt="osweekends">
       <h2>{{ post.frontmatter.title }}</h2>
     </router-link>
+    <span>{{ post.frontmatter.date }}</span>
     <p>{{ post.frontmatter.description }}</p>
   </div>
 </template>
@@ -19,10 +20,13 @@
     },
     computed: {
       hasImage() {
-        return this.post.frontmatter.image !== '' || this.post.frontmatter.image !== null
+        return this.post.frontmatter.image !== undefined && this.post.frontmatter.image !== '' && this.post.frontmatter.image !== null
       },
       mainImgPath() {
         return this.$withBase( '/assets' + this.post.path + this.post.frontmatter.image )
+      },
+      defaultImgPath() {
+        return this.$withBase( '/assets/img/postDefault.png' )
       },
       altImage() {
         return this.post.frontmatter.altImage || ''
