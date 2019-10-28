@@ -5,7 +5,7 @@
       <h2 class="post__title">{{ post.frontmatter.title }}</h2>
     </router-link>
     <div class="post__content">
-      <span class="post__author">Por <a href="#">{{ post.frontmatter.author }}</a> · </span>
+      <!--<span class="post__author">Por <a href="#">{{ post.frontmatter.author }}</a> · </span>-->
       <span class="post__date">{{ post.frontmatter.date }}</span>
       ·
       <span class="post__tags" v-for="tag in post.frontmatter.tags">
