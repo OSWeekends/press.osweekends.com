@@ -14,7 +14,7 @@ Nos reunimos un fin de semana al mes, donde organizamos talleres, workshops y co
 # 🤷‍♂️ But why?
 
 <div style="text-align:center; margin-top: 20px;">
-    <img src="http://giphygifs.s3.amazonaws.com/media/1M9fmo1WAFVK0/giphy.gif" alt="but-why-gif">
+    <img src="/assets/img/but-why.gif" alt="but-why-gif">
 </div>
 
 Aunque las redes sociales nos aportan mucho valor, nos muestran contenido que la mayor parte de las veces es volátil. 
