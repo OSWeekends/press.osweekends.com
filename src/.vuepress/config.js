@@ -9,6 +9,7 @@ module.exports = {
     repo: 'OSWeekends/press.osweekends.com',
     editLinks: true,
     editLinkText: 'Editar en GitHub',
+    docsDir: 'src',
     nextLinks: true,
     prevLinks: true,
     lastUpdated: 'Última actualización', // string | boolean
