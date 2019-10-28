@@ -1,12 +1,18 @@
 <template>
   <div class="post">
     <router-link :to="post.path">
-      <img :src="pathImage" :alt="altImage">
-      <h2>{{ post.frontmatter.title }}</h2>
+      <img class="post__img" :src="pathImage" :alt="altImage">
+      <h2 class="post__title">{{ post.frontmatter.title }}</h2>
     </router-link>
-    <span class="date">{{ post.frontmatter.date }}</span>
-    <span class="tags">{{ post.frontmatter.tags }}</span>
-    <p class="small-description">{{ post.frontmatter.description }}</p>
+    <div class="post__content">
+      <span class="post__author">Por <a href="#">{{ post.frontmatter.author }}</a> · </span>
+      <span class="post__date">{{ post.frontmatter.date }}</span>
+      ·
+      <span class="post__tags" v-for="tag in post.frontmatter.tags">
+        <span class="tag">#{{ tag }}</span>
+      </span>
+      <p class="small-description">{{ post.frontmatter.description }}</p>
+    </div>
   </div>
 </template>
 
@@ -55,10 +61,52 @@
   }
 </script>
 
-<style scoped lang="stylus">
+<style lang="stylus">
+  border-radius()
+    -webkit-border-radius arguments
+    -moz-border-radius arguments
+    border-radius arguments
+
   .post
-    border-radius: .25rem
-    padding 20px
+    border-radius(5px)
     margin-bottom 20px
     box-shadow 0 .5rem 1rem rgba(0, 0, 0, .15)
+
+    > a
+      display block
+      color #333
+
+      &:hover
+        color #0056b3
+
+    .post__img
+      border-radius(5px 5px 0px 0px)
+
+    .post__title
+      margin-left 20px
+      margin-right 20px
+      margin-bottom 10px
+
+    .post__content
+      padding 0 20px 20px 20px
+
+    .post__author
+      font-size 10px
+
+    .post__date
+      font-size 10px
+      background-color #f3f3f3
+      padding 4px 7px
+      border-radius 18px
+
+    .post__tags
+      font-size 10px
+
+      .tag
+        border 1px solid #03a9f4
+        border-radius 18px
+        padding 3px 6px
+        margin-right 5px
+
+
 </style>

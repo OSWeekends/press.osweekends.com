@@ -8,7 +8,7 @@
   import moment from 'moment'
 
   const TYPE_BLOG = 'blog'
-  const FORMAT = 'DD-MM-YYYY'
+  const FORMAT = 'DD/MM/YYYY'
   const TODAY = new Date()
 
   export default {
