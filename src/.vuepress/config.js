@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Press',
+  title: 'OSW Press',
   description: 'La información oficial de OSW',
   markdown: {
     lineNumbers: true
