@@ -17,9 +17,9 @@ Nos reunimos un fin de semana al mes, donde organizamos talleres, workshops y co
     <img src="/assets/img/but-why.gif" alt="but-why-gif">
 </div>
 
-Aunque las redes sociales nos aportan mucho valor, nos muestran contenido que la mayor parte de las veces es volátil. 
-¡Algunas veces duran escasos minutos!  
-Es por eso que hemos decidido crear este portal, en el cual va convivir de manera ordenada y unificada nuestro contenido. 
+Aunque las redes sociales nos aportan mucho valor, el contenido que nos muestran es, la mayor parte de las veces, volátil.
+En ocasiones, ¡duran escasos minutos!  
+Es por eso que hemos decidido crear este portal, en el cual va convivir nuestro contenido de manera ordenada y unificada. 
 
 # 🐛 Quiero colaborar
 
@@ -32,8 +32,8 @@ Si crees que hay algo que deberíamos cambiar, puedes hacer un Pull Request.
 :::
 
 Si tienes dudas acerca de como funciona esto, puedes contactar con Jorge Baumann [@baumannzone](https://twitter.com/baumannzone) a través de twitter
-o puedes crear una nueva issue en nuestro repositorio de la organización en [github](https://github.com/OSWeekends/press.osweekends.com/issues/new/choose) y 
-te ayudaremos con el proceso.
+o puedes crear una nueva _issue_ en nuestro repositorio de la organización en [github](https://github.com/OSWeekends/press.osweekends.com/issues/new/choose) 
+para que te ayudaremos.
 
 <br>
 

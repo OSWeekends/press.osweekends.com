@@ -28,3 +28,4 @@ temporada `2019 - 2020`.
 - Sábado 23 Mayo
 
 👋 ¡Nos vemos en el próximo evento!
+**Open Source Weekends Team**
