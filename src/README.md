@@ -1,3 +1,5 @@
-# Hello VuePress
+---
+title: Comunicados oficiales de OSW
+---
 
 <Posts />

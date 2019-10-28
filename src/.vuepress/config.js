@@ -31,6 +31,7 @@ module.exports = {
           return moment( timestamp ).fromNow()
         }
       }
-    ]
+    ],
+    'vuepress-plugin-reading-time'
   ]
 }
