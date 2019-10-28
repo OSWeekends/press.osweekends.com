@@ -23,9 +23,8 @@ Es por eso que hemos decidido crear este portal, en el cual va convivir de maner
 
 # 🐛 Quiero colaborar
 
-Si has visto alguna errata o si simplemente quieres colaborar, puedes mandar un Pull Request a través de nuestro GitHub.
-Está desarrollado con [Vuepress](https://vuepress.vuejs.org/) un generador de sitios web estáticos basado en [Vue](https://vuejs.org/)
-y alojado en [GitHub](https://github.com/OSWeekends/press.osweekends.com).
+Si has visto alguna errata o si simplemente quieres colaborar, puedes mandar un Pull Request a través de nuestro GitHub. La mayoría del contenido está redactado en Markdown.  
+Este sitio web está desarrollado con [Vuepress](https://vuepress.vuejs.org/) un generador de sitios web estáticos basado en [Vue](https://vuejs.org/) y alojado en [GitHub](https://github.com/OSWeekends/press.osweekends.com).
 
 ::: tip 😊
 Al final de cada página hay un enlace que te permite editar dicha página en github.  
