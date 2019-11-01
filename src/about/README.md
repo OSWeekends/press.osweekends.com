@@ -33,7 +33,7 @@ Si crees que hay algo que deberíamos cambiar, puedes hacer un Pull Request.
 
 Si tienes dudas acerca de como funciona esto, puedes contactar con Jorge Baumann [@baumannzone](https://twitter.com/baumannzone) a través de twitter
 o puedes crear una nueva _issue_ en nuestro repositorio de la organización en [github](https://github.com/OSWeekends/press.osweekends.com/issues/new/choose) 
-para que te ayudaremos.
+para que te ayudemos.
 
 <br>
 
