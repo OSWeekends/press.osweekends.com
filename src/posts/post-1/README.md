@@ -13,7 +13,7 @@ author: Jorge Baumann
 # 📆 Fechas definitivas OSW 2019-2020
 
 Estas son las fechas definitivas de los eventos de Open Source Weekends para la  
-temporada `2019 - 2020`.
+temporada **2019 - 2020**.
 
 ### 2019 🔥
 - Sábado 12 Octubre 
