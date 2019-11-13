@@ -23,7 +23,7 @@ Los **formatos** y los **tiempos** que manejamos habitualmente son estos:
 
 > Estamos abiertos a nuevas ideas y formatos, por lo que si tienes alguna idea que crees que puede encajar, ¡avísanos!
 
-### 👇 Estos son los pasos para hacer una propuesta:
+## 👇 Estos son los pasos para hacer una propuesta:
 
 1.  Desde github, crea una issue en el repositorio de "[Request for Talks](https://github.com/OSWeekends/request-for-talks/issues/new)"
 2. En el título indica, entre corchetes, de qué tipo es (Algunos de los posibles tipos o formatos son: `charla`, `taller`, `micro-taller`, `debate`, etc). A continuación, escribe el título del tu charla.  
@@ -35,3 +35,7 @@ Los **formatos** y los **tiempos** que manejamos habitualmente son estos:
 4. Aunque podemos hablar a través de los comentarios de la propia issue, es recomendable dejar una forma de contacto (Twitter, Email, etc).
 5. Contactaremos contigo _ASAP_
  
+<br>
+ 
+ 👋 ¡Nos vemos en el próximo evento!  
+ **Open Source Weekends Team**
