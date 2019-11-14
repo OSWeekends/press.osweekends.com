@@ -69,7 +69,7 @@
 
   .post
     border-radius(5px)
-    margin-bottom 20px
+    margin-bottom 40px
     box-shadow 0 .5rem 1rem rgba(0, 0, 0, .15)
 
     > a
