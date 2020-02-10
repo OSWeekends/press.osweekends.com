@@ -22,7 +22,7 @@ temporada **2019 - 2020**.
 
 ### 2020 🔥
 - Sábado 18 Enero 
-- Sábado 22 Febrero 
+- ~Sábado 22 Febrero~ (Cancelado)
 - Sábado 21 Marzo 
 - Sábado 18 Abril 
 - Sábado 23 Mayo
