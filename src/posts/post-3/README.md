@@ -1,8 +1,7 @@
 ---
 type: blog
 title: Cancelación de eventos OSW
-description: Comunicado · Cancelación de eventos OSWeekends 👑🦠
-image: /main.png
+description: Comunicado · Cancelación de eventos Open Source Weekends por 👑🦠
 altImage: OSWeekends
 date: 10/03/2020
 author: Jorge Baumann
