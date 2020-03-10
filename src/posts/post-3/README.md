@@ -1,16 +1,27 @@
 ---
 type: blog
-title: ¿Quieres dar una charla en OSW?
-description: Esta es una pequeña guía que tienes que seguir si quieres dar una charla o taller en algun evento de OSWeekends
+title: Cancelación de eventos OSW
+description: Comunicado · Cancelación de eventos OSWeekends 👑🦠
 image: /main.png
-altImage: El texto alternativo de la img...
-date: 29/10/2020
+altImage: OSWeekends
+date: 10/03/2020
 author: Jorge Baumann
 tags:
     - eventos
-    - charla
+    - calendario
+
 ---
 
 ![img](/assets/img/postDefault.png)
 
-¿Te gustaría dar una charla o taller en alguno de nuestros eventos? 
+# Cancelación de eventos OSWeekends
+
+Querida comunidad,
+
+Desde la organización de OSWeekends sentimos comunicaros que el evento anunciado para el 21 de Marzo se ha **cancelado** por causas ajenas a la organización (COVID-19 · 👑🐛).
+
+Cancelamos la celebración de nuevos eventos hasta nuevo aviso. Os iremos informando (Twitter, Meetup, ...) en cuanto la situación cambie.
+
+Muchas gracias por vuestra comprensión. 💙
+
+**Open Source Weekends Team**
