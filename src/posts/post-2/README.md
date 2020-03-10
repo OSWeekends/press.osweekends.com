@@ -26,7 +26,7 @@ Los **formatos** y los **tiempos** que manejamos habitualmente son estos:
 ## 👇 Estos son los pasos para hacer una propuesta:
 
 1.  Desde github, crea una issue en el repositorio de "[Request for Talks](https://github.com/OSWeekends/request-for-talks/issues/new)"
-2. En el título indica, entre corchetes, de qué tipo es (Algunos de los posibles tipos o formatos son: `charla`, `taller`, `micro-taller`, `debate`, etc). A continuación, escribe el título del tu charla.  
+2. En el título indica, entre corchetes, de qué tipo es (Algunos de los posibles tipos o formatos son: `charla`, `taller`, `debate`, etc). A continuación, escribe el título del tu charla.  
 **Ejemplo: `[Charla] Introducción a Docker`**
 3. En la descripción:
     - Cuéntanos en un par de palabras quien eres y a qué te dedicas 
