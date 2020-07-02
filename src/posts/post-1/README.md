@@ -23,9 +23,11 @@ temporada **2019 - 2020**.
 ### 2020 🔥
 - Sábado 18 Enero 
 - ~~Sábado 22 Febrero~~ (Cancelado)
-- Sábado 21 Marzo 
-- Sábado 18 Abril 
-- Sábado 23 Mayo
+- ~~Sábado 21 Marzo~~ (Cancelado)
+- ~~Sábado 18 Abril~~ (Cancelado)
+- ~~Sábado 23 Mayo~~ (Cancelado)
+- Sábado 13 Junio (Online)
+- Sábado 27 Junio (Online)
 
 👋 ¡Nos vemos en el próximo evento!  
 **Open Source Weekends Team**
