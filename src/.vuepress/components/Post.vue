@@ -7,10 +7,12 @@
     <div class="post__content">
       <!--<span class="post__author">Por <a href="#">{{ post.frontmatter.author }}</a> · </span>-->
       <span class="post__date">{{ post.frontmatter.date }}</span>
-      ·
-      <span class="post__tags" v-for="tag in post.frontmatter.tags">
+      <template v-if="hasTags">
+        <span>·</span>
+        <span class="post__tags" v-for="tag in post.frontmatter.tags">
         <span class="tag">#{{ tag }}</span>
       </span>
+      </template>
       <p class="small-description">{{ post.frontmatter.description }}</p>
     </div>
   </div>
@@ -56,6 +58,9 @@
       },
       altImage() {
         return this.post.frontmatter.altImage || 'osweekends'
+      },
+      hasTags () {
+        return this.post.frontmatter.tags && this.post.frontmatter.tags.length > 0
       }
     }
   }
