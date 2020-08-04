@@ -4,3 +4,5 @@ src/.vuepress/dist
 # Editors
 .idea
 .vscode
+
+.DS_Store
