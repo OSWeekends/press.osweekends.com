@@ -20,7 +20,7 @@ De momento os podemos decir que seguiremos con el formato online. La gran ventaj
 Ya hemos hablado con algunos speakers que estarán con nosotros en futuras ediciones. Los iremos revelando más adelante.
 
 ¡Mándanos tus recomendaciones! ¿A quién te gustaría ver 👀? ¿Qué temas te gustaría tratar 🤔?
-Esperamos tus comentarios 👂.
+Esperamos tus comentarios.
 
 Nos vemos en septiembre. 💙
 
