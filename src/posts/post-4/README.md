@@ -19,8 +19,8 @@ vamos a tomarnos un descansito, como siempre por estas fechas, para volver en se
 De momento os podemos decir que seguiremos con el formato online. La gran ventaja de esto es que podemos contar con ponentes de cualquier parte del globo terráqueo. 🌍  
 Ya hemos hablado con algunos speakers que estarán con nosotros en futuras ediciones. Los iremos revelando más adelante.
 
-¡Mándanos tus recomendaciones! ¿A quién te gustaría ver 👀? ¿Qué temas os gustaría tratar 🤔?
-Esperamos vuestros comentarios 👂.
+¡Mándanos tus recomendaciones! ¿A quién te gustaría ver 👀? ¿Qué temas te gustaría tratar 🤔?
+Esperamos tus comentarios 👂.
 
 Nos vemos en septiembre. 💙
 
