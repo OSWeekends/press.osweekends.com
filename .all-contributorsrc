@@ -17,11 +17,21 @@
         "doc",
         "blog"
       ]
+    },
+    {
+      "login": "AlenaNik",
+      "name": "Alena Nik",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/38886707?v=4",
+      "profile": "https://cool-beans.now.sh/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "press.osweekends.com",
   "projectOwner": "OSWeekends",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
