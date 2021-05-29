@@ -1,6 +1,9 @@
 module.exports = {
   title: 'OSW Press',
   description: 'La información oficial de OSW',
+  head: [
+    ['link', { rel: "icon", type: "image/png", href: "/assets/img/logo.png"}],
+  ],
   markdown: {
     lineNumbers: true
   },
